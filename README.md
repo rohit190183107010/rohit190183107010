@@ -13,8 +13,9 @@ Proficient in Data Structures, Algorithms ,ML ,Cloud ,IT Security and fundamenta
 * ✉️  You can contact me at [rohit36586@gmail.com](mailto:rohit36586@gmail.com)
 * 🧠  I'm learning DevOps
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit190183107010&theme=algolia" alt="DARK-art108" /></p>
-
-<a href="https://www.github.com/rohit190183107010" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/RohitYJ" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/RohitYJ?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
+/></a><a href="https://www.github.com/rohit190183107010" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rohit190183107010?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit190183107010&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
