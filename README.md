@@ -12,11 +12,15 @@ Proficient in Data Structures, Algorithms ,ML ,Cloud ,IT Security and fundamenta
 * 🌍  I'm based in Gujarat , India
 * ✉️  You can contact me at [rohit36586@gmail.com](mailto:rohit36586@gmail.com)
 * 🧠  I'm learning DevOps
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
 <a href="https://www.twitter.com/RohitYJ" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/RohitYJ?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
 /></a><a href="https://www.github.com/rohit190183107010" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rohit190183107010?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit190183107010&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
+
+
 
 ### Skills
 
@@ -41,10 +45,62 @@ src="https://img.shields.io/github/followers/rohit190183107010?logo=github&style
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+### Monitoring
+  
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+   <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cloudwatch.gif" height="65" />
+  </a>
+</p>
+ 
 
-### Socials
+### Databases
+  
+ <p float="left">
+  <a href="https://www.postgresql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
+  </a>
+  <a href="https://www.timescale.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+ </a>&nbsp;&nbsp;
+</p>
+
+### Cloud
+
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+
+## 📊 Github Stats (Expand to View) 
+  
+  <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=rohit190183107010&show_icons=true&theme=radical" alt="DARK-art108" />
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=rohit190183107010&layout=compact" alt="DARK-art108"/>
+
+</details>
+## 📫 How to reach me? 
 
 <p align="left"> <a href="https://discord.com/users/rohityj#5456" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rohit190183107010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://@rohit19083107010.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rohityj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RohitYJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+## 🎧 Spotify Playing 
+  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/31xkqrvtl4rpmzsrl7iu2ktjuayy)
 
 ### Badges
 
@@ -54,10 +110,7 @@ src="https://img.shields.io/github/followers/rohit190183107010?logo=github&style
 
 <a href="http://www.github.com/rohit190183107010"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit190183107010&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/rohit190183107010"><img src="https://activity-graph.herokuapp.com/graph?username=rohit190183107010&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/rohit190183107010" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit190183107010&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
