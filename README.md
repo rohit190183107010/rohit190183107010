@@ -116,6 +116,18 @@ src="https://img.shields.io/github/followers/rohit190183107010?logo=github&style
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
+</div> 
+
+## 📈 Some of my GitHub stats:       
+
+
+![](https://komarev.com/ghpvc/?username=rohit190183107010&style=flat-square)
+
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=rohit190183107010&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
+
+
  ## 
   <img src="https://komarev.com/ghpvc/?username=rohit190183107010" width=160px/>
   
