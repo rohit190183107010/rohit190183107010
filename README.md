@@ -5,16 +5,21 @@
 	<br>
 </div>
 
-========================================================================================
+
 
 DevOps Engineer , TechOps Engineer , Web Deveploment , App Deveploment
 ----------------------------------------------------------------------
 
 Proficient in Data Structures, Algorithms ,ML ,Cloud ,IT Security and fundamentals of computer science. Currently Working in building and optimizing customer-centric, large scale software products. Delivered products while working in small teams showing leadership, collaboration and excellent communication skills. -Currently working to activate first-party data to optimize your efforts in marketing that lead to a higher ROAS on Ad Platform like Google Ads, Meta , Snap & Tiktok etc. Technology Stack - C, C++, C#, Java, JavaScript , python, Node.js Servlets, HTML, CSS, PHP,SQL, MySQL, SQLite Tools: Power BI Git GitHub Docker Kubernetes Jenkins Ansible Nagios VS Code NetBeans Dreamweaver Photoshop Framework: Android Studio, WordPress, Swing, JSP, AWT, APPLET, Express, Django Other Skills - Android Application Development, Shell Scripting, Web Development, Analytics. Passionate about learning new technology and tools. Good at developing innovative solutions to tackle critical problems! https://rohittyj.web.app
 
-* 🌍  I'm based in Gujarat , India
+<h1 align ="center">
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=rohit190183107010&theme=onedark&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</h1>
+
 * ✉️  You can contact me at [rohit36586@gmail.com](mailto:rohit36586@gmail.com)
-* 🧠  I'm learning DevOps
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit190183107010&theme=algolia" alt="DARK-art108" /></p>
 <a href="https://www.twitter.com/RohitYJ" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/RohitYJ?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
