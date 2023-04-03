@@ -25,7 +25,7 @@ Proficient in Data Structures, Algorithms ,ML ,Cloud ,IT Security and fundamenta
  
 </h1>
 
-* ✉️  You can contact me at [rohit36586@gmail.com](mailto:rohit36586@gmail.com)
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit190183107010&theme=algolia" alt="DARK-art108" /></p>
 <a href="https://www.twitter.com/RohitYJ" target="_blank" rel="noreferrer"><img
@@ -119,6 +119,9 @@ src="https://img.shields.io/github/followers/rohit190183107010?logo=github&style
 
 ## 🎧 Spotify Playing 
   [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/31xkqrvtl4rpmzsrl7iu2ktjuayy)
+  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Badges
 
