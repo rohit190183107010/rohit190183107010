@@ -5,6 +5,13 @@
 	<br>
 </div>
 
+[![Twitter: RohitYJ](https://img.shields.io/twitter/follow/RohitYJ?style=social)](https://twitter.com/RohitYJ)
+![GitHub followers](https://img.shields.io/github/followers/rohit190183107010?label=Follow&style=social)
+[![Linkedin: rohityj](https://img.shields.io/badge/-rohityj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohityj/)](https://www.linkedin.com/in/rohityj/) 
+[![Medium Badge](https://img.shields.io/badge/-@rohit36586-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@rohit36586/)](https://medium.com/@rohit36586/) 
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rohittyj.web.app/)](https://rohittyj.web.app/)
+![](https://komarev.com/ghpvc/?username=rohit190183107010&label=Profile%20views&color=0e75b6&style=plastic)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rohit.190183107010@gmail.com)](mailto:rohit.190183107010@gmail.com)
 
 
 DevOps Engineer , TechOps Engineer , Web Deveploment , App Deveploment
@@ -26,7 +33,7 @@ src="https://img.shields.io/twitter/follow/RohitYJ?logo=twitter&style=for-the-ba
 /></a><a href="https://www.github.com/rohit190183107010" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rohit190183107010?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit190183107010&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
+
 
 ### Skills
 
@@ -104,6 +111,11 @@ src="https://img.shields.io/github/followers/rohit190183107010?logo=github&style
 ## 📫 How to reach me? 
 
 <p align="left"> <a href="https://discord.com/users/rohityj#5456" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rohit190183107010" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://@rohit19083107010.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rohityj/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RohitYJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+---
+
+<h2>Latest Tweets 🧵</h2>
+<p align='center'><a href="https://twitter.com/RohitYJ"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=RohitYJ&layout=wide" width="350"  alt="github-readme-twitter"></a></p>
 
 ## 🎧 Spotify Playing 
   [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/31xkqrvtl4rpmzsrl7iu2ktjuayy)
