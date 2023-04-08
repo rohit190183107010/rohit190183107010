@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/rohit190183107010?label=Follow&style=social)
 [![Linkedin: rohityj](https://img.shields.io/badge/-rohityj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohityj/)](https://www.linkedin.com/in/rohityj/) 
 [![Medium Badge](https://img.shields.io/badge/-@rohit36586-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@rohit36586/)](https://medium.com/@rohit36586/) 
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=[https://rohittyj.web.app/](https://linkfree.eddiehub.io/rohit190183107010))]([https://rohittyj.web.app/](https://linkfree.eddiehub.io/rohit190183107010))
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://linkfree.eddiehub.io/rohit190183107010)](https://linkfree.eddiehub.io/rohit190183107010)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rohittyj.web.app/)](https://rohittyj.web.app/)
 ![](https://komarev.com/ghpvc/?username=rohit190183107010&label=Profile%20views&color=0e75b6&style=plastic)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rohit.190183107010@gmail.com)](mailto:rohit.190183107010@gmail.com)
